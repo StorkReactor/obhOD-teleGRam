@@ -1,0 +1,19 @@
+# obhOD-teleGRam
+
+> Актуальная версия с поддержкой работы Telegram. Стабильнее, быстрее, надежнее
+
+Сборка obhOD-teleGRam: Telegram без прокси. Медиа и звонки идут напрямую, IP ваш.
+
+## Страницы
+- Сайт: https://storkreactor.github.io/obhOD-teleGRam/
+- Релиз: https://github.com/StorkReactor/obhOD-teleGRam/releases/latest
+- Исходный код: https://github.com/StorkReactor/obhOD-teleGRam
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Telegram
+- Telegram не отправляет фото
+- Telegram звонки не работают
+- zapret Telegram
+
+Windows 10/11, без VPN, бесплатно.
